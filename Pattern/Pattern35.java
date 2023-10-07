@@ -1,3 +1,4 @@
+package DSA.Pattern;
 import java.util.Scanner;
 class pattern35{
     public static void pattern(int n){
